@@ -62,7 +62,6 @@ layout = [
     [sg.Button("Submit message"), sg.Button("Exit")]
 ]
 
-print("bot is running.")
 
 window = sg.Window("Test window", layout)
 
